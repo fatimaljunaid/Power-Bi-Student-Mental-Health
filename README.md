@@ -2,8 +2,6 @@
 
 An interactive Power BI dashboard analyzing mental health patterns among 100 students, based on a cleaned dataset prepared with Python.
 
----
-
 ## Table of Contents
 
 - [Overview](#overview)

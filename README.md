@@ -16,7 +16,6 @@ An interactive Power BI dashboard analyzing mental health patterns among 100 stu
 ---
 
 ## Overview
-
 This project presents a 4-page interactive Power BI dashboard that explores the factors affecting student mental health across 100 students and 26 variables.
 
 The dashboard transforms a cleaned survey dataset into actionable insights for educators, counselors, and school administrators.
